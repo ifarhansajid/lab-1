@@ -1,4 +1,4 @@
 # lab1
 ## Hello
-### Qarshi Uni
+### Qarshi Uni Lahore
 
